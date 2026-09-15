@@ -1,0 +1,10 @@
+{
+  "concept_a": {
+    "description": "a visual description of the first authorized concept",
+    "trigger": "sks_concept_a"
+  },
+  "concept_b": {
+    "description": "a visual description of the second authorized concept",
+    "trigger": "sks_concept_b"
+  }
+}
